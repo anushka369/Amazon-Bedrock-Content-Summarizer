@@ -79,4 +79,3 @@ with col3:
             
         
         st.image(generated_image)
-
